@@ -1,0 +1,202 @@
+<html>
+ <head></head>
+ <body>
+  <script src="js/scripts.js"></script>
+  <script src="js/1.js"></script>
+  <hr color="White">
+  <link href="css/m.1fa67fb2.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="css/chunk-b601d230.77c44edd.css">
+  <style type="text/css">
+         body {
+            background-image:url('img/emm.jpg');
+            background-size: 100% 34% !important;
+            background-repeat: no-repeat;
+               }
+        .bb1 {
+           color:white;
+           top:0;
+           left:0;
+           width:100%;
+           height:1%;
+             }
+        .a2 {
+          text-align:center;
+          font-style:italic;
+          
+        }
+        .a3 {
+          text-align:center;
+          font-style:italic;
+          background-image:linear-gradient(#efff00,#0aff00,#00fff8);
+          border-radius:3px;
+        }
+        .a1 {
+          text-align:center;
+          font-size:0.1em;
+          font-style:italic;
+        }
+        .text1 {
+            font-size: 40px;
+            font-weight: normal;
+            text-transform: uppercase;
+            /*大写 lowercase小写；capitalize单词首字母大写*/
+            fill: none;
+            stroke: #B0E0E6;
+            font-style:italic;
+        }
+
+         p{
+          text-align:center;
+          font-style:italic;
+          width:21%;
+          height:35px;
+          }
+        .p{
+          text-align:center;
+          font-style:italic;
+          }
+        article p{
+          font-size:10px;
+          }
+        .v1{
+          vertical-align:right;
+          }
+        .v2{
+          width:100%;  
+             
+          }
+        h6{
+          margin-right: 42px;
+          }
+       #an{
+     	margin-left:0px;
+    	margin-right:0px;
+    	height:24px;
+    	background-color:#f50;
+    	line-height:22px;
+    	color:white;
+    	border-radius:3px;
+          }
+        html{
+          scroll-behavior:smooth;
+          }
+    </style>
+  <div id="app">
+   <div data-v-1f9b29e2="" class="page-wrap">
+    <div data-v-1f9b29e2="" class="main-page" style="" data-v9999="">
+     <div data-v-1f9b29e2="" class="new-header">
+      <div data-v-1f9b29e2="" class="user-profile">
+       <div data-v-1f9b29e2="" class="photo-wrap">
+        <div data-v-1f9b29e2="" class="mood">
+         <div data-v-1f9b29e2="" class="mood-content">
+          <svg width="100%" height="80" style="margin:-30px auto"><!--<text text-anchor="middle" x="50%" y="50%" class="text1 text-1" >--> <!--    &#10084;CM清风&#10084;--> <!--</text>--> <text text-anchor="middle" x="50%" y="50%" class="text1 text-1">
+             C M清风设计 
+           </text>
+          </svg>
+         </div>
+        </div>
+        <div data-v-1f9b29e2="" class="photo"><img data-v-1f9b29e2="" src="appIcon.png">
+        </div>
+       </div>
+       <h5 data-v-1f9b29e2="" class="a2">[感谢支持，请放心食用本软件]      
+       </div>
+     </div>
+     <script src="js/jq.js"></script>
+     <h5>ㅤ</h5>
+     <hr color="red">
+     <div class="slidebar">
+     <input style="float: right;" id="an" type="button" onclick="tan();" value="公告"> <!--公告在1.js里-->
+     <a href="009.html" style="background-image:linear-gradient(#0fa1ff,#61c1ff,#addfff);color:Blue;border-radius:3px;">新年快乐！</a>
+     </div>
+     <h6 class="a2">你看到了我 
+      <audio class="v2" controls="music1/1.mp3" type="audio/mp3" loop=""><source src="music1/1.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">国民好洲道 - Letter (抖音高潮版) 
+      <audio class="v2" controls="music1/2.mp3" type="audio/mp3" loop=""><source src="music1/2.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">忘记了 
+      <audio class="v2" controls="music1/3.mp3" type="audio/mp3" loop=""><source src="music1/3.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">SeVen.13 - Limitless（无限） 
+      <audio class="v2" controls="music1/4.mp3" type="audio/mp3" loop=""><source src="music1/4.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">熊出没之夺宝熊兵 
+      <audio class="v2" controls="music1/5.mp3" type="audio/mp3" loop=""><source src="music1/5.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">熊出没之探险日记 
+      <audio class="v2" controls="music1/6.mp3" type="audio/mp3" loop=""><source src="music1/6.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">专属bgm 
+      <audio class="v2" controls="music1/7.mp3" type="audio/mp3" loop=""><source src="music1/7.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">不辜负每一刻好时光 
+      <audio class="v2" controls="music1/8.mp3" type="audio/mp3" loop=""><source src="music1/8.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">火红的萨日朗 
+      <audio class="v2" controls="music1/9,.mp3" type="audio/mp3" loop=""><source src="music1/9.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">爱人错过 
+      <audio class="v2" controls="music1/10.mp3" type="audio/mp3" loop=""><source src="music1/10.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">日不落 
+      <audio class="v2" controls="music1/11.mp3" type="audio/mp3" loop=""><source src="music1/11.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">好想抱住你 
+      <audio class="v2" controls="music1/12.mp3" type="audio/mp3" loop=""><source src="music1/12.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">海市蜃楼 
+      <audio class="v2" controls="music1/13.mp3" type="audio/mp3" loop=""><source src="music1/13.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">缺氧 
+      <audio class="v2" controls="music1/14.mp3" type="audio/mp3" loop=""><source src="music1/14.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">张三版耍把戏 
+      <audio class="v2" controls="music1/15.mp3" type="audio/mp3" loop=""><source src="music1/15.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">八百里黄沙 
+      <audio class="v2" controls="music1/16.mp3" type="audio/mp3" loop=""><source src="music1/16.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">把回忆拼好给你 
+      <audio class="v2" controls="music1/17.mp3" type="audio/mp3" loop=""><source src="music1/17.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">后来我们的爱 
+      <audio class="v2" controls="music1/18.mp3" type="audio/mp3" loop=""><source src="music1/18.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">落鲸
+      <audio class="v2" controls="music1/19.mp3" type="audio/mp3" loop=""><source src="music1/19.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">windy Hill
+      <audio class="v2" controls="music1/20.mp3" type="audio/mp3" loop=""><source src="music1/20.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">Star Unkind(Lanfranchi & Farina Remix)
+      <audio class="v2" controls="music1/21.mp3" type="audio/mp3" loop=""><source src="music1/21.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">月老掉线(DJ阿卓版)
+      <audio class="v2" controls="music1/22.mp3" type="audio/mp3" loop=""><source src="music1/22.mp3" type="audio/mpeg">
+      </audio></h6>
+     <h6 class="a2">刷新本页面音乐会改变,若没有,请再次刷新。
+      <audio class="v2" controls="https://api.uomg.com/api/rand.music?sort=热歌榜&amp;format=mp3" type="audio/mp3" loop=""><source src="https://api.uomg.com/api/rand.music?sort=热歌榜&amp;format=mp3" type="audio/mpeg">
+      </audio>
+     <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+     <script src="js/wc-3.0.5.min.js"></script>
+     <hr color="#fff100"> <a href="004.html"> <h3 id="v71" class="p">其他功能</h3> </a>
+     
+     <h6><input type="button" onclick="wc.goQQGroup('564103016');" value=" 跳转到QQ群ㅤ" class="a3"> <input type="button" onclick="wc.phoneHome();" value="ㅤ回到手机桌面ㅤ" class="a3"> <input type="button" onclick="wc.exit();" value="ㅤ退出ㅤ" class="a3">
+    </div>
+   </div>
+   <script>
+   window.onload = function(){
+            pushHistory();
+            function pushHistory() {
+                var state = {
+                    title: "title",
+                    url: "#",
+                };
+                window.history.pushState(state, "title", "#");
+            }
+          let btn = document.querySelector("body");
+        }
+  </script>
+  </div>
+ </body>
+</html>
